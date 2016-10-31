@@ -1,0 +1,40 @@
+﻿/* лаб 2. Данилин 24.10.2016г
+*/
+#container {
+	background-color: #FFFFFF;
+    border:10px white solid;
+
+}
+#header {
+	background-color:#A8F0F0;
+	text-align:right;
+
+}
+#header h2 {
+	font-size: 14pt;
+
+}
+.entry {    
+	background-color:#E8FBFB; 
+	border:4px #C2E9E9 solid;
+	border-radius: 15px;
+	padding:5px;
+    margin-top:10px;
+    text-align:justify;
+}
+.entry img {
+	float:right;
+}
+.date {
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+	border-bottom-color:blue;
+}
+body{
+	background-image: url("background.gif");
+	margin-left:10%;
+	margin-right:10%; 
+}
+.spacer {
+	clear:right;
+}
